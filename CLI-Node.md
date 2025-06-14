@@ -98,9 +98,9 @@ screen -r pipetestnet
 
 2.A For Local PC
 ```
-sudo cp -r /mnt/c/Users/ASUS/Downloads/File /opt/popcache/
+sudo cp -r /mnt/c/Users/boboi/Downloads/pop-v0.3.2-linux-x64.tar.gz /opt/popcache/
 ```
-Replace "c/Users/ASUS/Downloads/File" to your Actual File Path in ur System
+Replace "c/Users/boboi/Downloads/File" to your Actual File Path in ur System
 
 2.B For VPS (Run in Powershell or Command Prompt)
 ```
